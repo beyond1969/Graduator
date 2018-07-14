@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 7ea6165bfdb85f648a376452cac835f5
+timeCreated: 1522998404
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base
+    100002: //RootNode
+    100004: Crossbow Placeholder
+    100006: Dummy Prop Back
+    100008: Dummy Prop Head
+    100010: Dummy Prop Left
+    100012: Dummy Prop Right
+    100014: Placeholder Shield
+    100016: Placeholder Sword
+    100018: Rig
+    100020: RigHead
+    100022: RigHeadGizmo
+    100024: RigLArm1
+    100026: RigLArm1Gizmo
+    100028: RigLArm2
+    100030: RigLArm2Gizmo
+    100032: RigLArmPalm
+    100034: RigLArmPalmGizmo
+    100036: RigLLeg1
+    100038: RigLLeg2
+    100040: RigLLegAnkle
+    100042: RigLLegPlatform
+    100044: RigNeck
+    100046: RigPelvis
+    100048: RigPelvisGizmo
+    100050: RigRArm1
+    100052: RigRArm1Gizmo
+    100054: RigRArm2
+    100056: RigRArm2Gizmo
+    100058: RigRArmPalm
+    100060: RigRArmPalmGizmo
+    100062: RigRibcage
+    100064: RigRibcageGizmo
+    100066: RigRLeg1
+    100068: RigRLeg2
+    100070: RigRLegAnkle
+    100072: RigRLegPlatform
+    100074: RigSpine1
+    100076: RigSpine2
+    400000: Base
+    400002: //RootNode
+    400004: Crossbow Placeholder
+    400006: Dummy Prop Back
+    400008: Dummy Prop Head
+    400010: Dummy Prop Left
+    400012: Dummy Prop Right
+    400014: Placeholder Shield
+    400016: Placeholder Sword
+    400018: Rig
+    400020: RigHead
+    400022: RigHeadGizmo
+    400024: RigLArm1
+    400026: RigLArm1Gizmo
+    400028: RigLArm2
+    400030: RigLArm2Gizmo
+    400032: RigLArmPalm
+    400034: RigLArmPalmGizmo
+    400036: RigLLeg1
+    400038: RigLLeg2
+    400040: RigLLegAnkle
+    400042: RigLLegPlatform
+    400044: RigNeck
+    400046: RigPelvis
+    400048: RigPelvisGizmo
+    400050: RigRArm1
+    400052: RigRArm1Gizmo
+    400054: RigRArm2
+    400056: RigRArm2Gizmo
+    400058: RigRArmPalm
+    400060: RigRArmPalmGizmo
+    400062: RigRibcage
+    400064: RigRibcageGizmo
+    400066: RigRLeg1
+    400068: RigRLeg2
+    400070: RigRLegAnkle
+    400072: RigRLegPlatform
+    400074: RigSpine1
+    400076: RigSpine2
+    2100000: 01 - Default
+    2300000: Crossbow Placeholder
+    2300002: Placeholder Shield
+    2300004: Placeholder Sword
+    3300000: Crossbow Placeholder
+    3300002: Placeholder Shield
+    3300004: Placeholder Sword
+    4300000: Base
+    4300002: Placeholder Shield
+    4300004: Crossbow Placeholder
+    4300006: Placeholder Sword
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Base
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
